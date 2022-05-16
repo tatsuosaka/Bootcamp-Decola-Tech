@@ -57,7 +57,7 @@ O escopo em **JavaScript** define a limitação e visibilidade de um bloco de c�
 O sinal de igualdade "=" em **JavaScript**, significa atribuição.
 
 Ex:
-- Como declarar: _var nome = "meu nome";_
+- Como declarar: `var nome = "meu nome";`
 - Como ler: _variável nome recebe o valor meunome;_
 
 ### Comparação
@@ -65,7 +65,7 @@ Ex:
 Para fazermos uma comparação de valores em **JavaScript** usamos "=="
 
 Ex:
-- Como declarar: _"0" == 0;_
+- Como declarar: `"0" == 0;`
 - Como ler: _"0" tem o valor igual a 0?_
 - (Nesse caso retorna True)
 
@@ -74,7 +74,7 @@ Ex:
 Para fazermos uma comparação de valores e tipos em **JavaScript** usamos "==="
 
 Ex:
-- Como declarar: _"0" === 0;_
+- Como declarar: `"0" === 0;`
 - Como ler: _"0" tem o valor e o tipo idêntico a 0?
 - (Nesse caso retorna false)
 
